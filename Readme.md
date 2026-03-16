@@ -3,7 +3,6 @@
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ![alt text](screenshoot.png)
-!
 
 ## Table of contents
 
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontend-mentor---order-summary-card-l4djtCktIx)
+- Live Site URL: [Add live site URL here](https://freedev-group.github.io/Order-summary-component-Kabidu/)
 
 ## My process
 
@@ -83,4 +82,4 @@ Going forward, I outline these areas of focus:
 ## Author
 
 - Coded by **Kabidu Munguakonkwa Sage**
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Abidusage)
+- Frontend Mentor - [@Abidusage](https://www.frontendmentor.io/profile/Abidusage)
